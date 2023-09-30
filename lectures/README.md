@@ -3,7 +3,7 @@
 ## 01 Алгоритмы основанные на полезности
 ## 02_1 Линейная аппроксимация полезности
 ## 0_2 Deep Q networks
-## 03 CrossEntropylti Armed Bandit
+## 03 CrossEntropy Method
 ## 04 Методы основанные на политике
 
 

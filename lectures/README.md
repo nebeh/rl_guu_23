@@ -8,7 +8,11 @@
 ## 05 Многорукий бандит
 
 ## 06 Контекстный бандит
-[запись](https://youtu.be/FKyuenuWTyY)
+- [запись](https://youtu.be/FKyuenuWTyY)
 ## 07 Методы оценки апостериорных распределений
+- [MCMC](https://youtu.be/VoASuAWONcY)
+- [Вариационные приближения](https://youtu.be/PCPEgz-_jnU)
+  
+
 
 
